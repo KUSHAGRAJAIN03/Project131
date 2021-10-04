@@ -1,0 +1,95 @@
+,Name,Distance,Mass,Radius,Star_name
+0,Sun,0.000015813,1.0,1.0,54 Piscium
+1,Sirius,8.6,1.7,2.1,81 Cancri
+2,Canopus,310,71.0,15.0,AB Pictoris
+3,Alpha Centauri,4.4,1.2,1.1,CDâˆ’33Â°7795
+4,Arcturus,37,26.0,1.1,CT Chamaeleontis
+5,Vega,25,2.7,2.2,Eta Coronae Borealis
+6,Capella,43,12.0,2.6,G 196-3
+7,Rigel,860,78.9,23.0,GD 165
+8,Procyon,11.4,1.9,1.5,Gliese 570
+9,Betelgeuse,0640[1],950.0,20.0,GU Piscium
+10,Achernar,144,9.3,6.7,HD 89744
+11,Hadar,390,8.6,10.5,HD 100546
+12,Altair,17,1.8,1.8,HN Pegasi
+13,Acrux,320,8.9,18.0,LHS 4040Â [es]
+14,Aldebaran,65,44.0,1.5,UScoCTIO 108
+15,Antares,600,680.0,12.0,WD 0137-349
+16,Spica,260,7.47,11.43,HD 41004 B
+17,Pollux,34,8.8,1.9,HD 149382
+18,Fomalhaut,25,1.8,1.9,COROT-15
+19,Deneb,"2,600",203.0,19.0,Xi Ursae Majoris B
+20,Mimosa,350,8.4,16.0,Upsilon Andromedae
+21,Regulus,77,3.1,3.8,Gliese 758
+22,Adhara,430,14.0,12.5,HD 112758
+23,Shaula,700,8.8,14.5,BDâˆ’04Â°782
+24,Castor,52,2.4,2.8,HD 110833
+25,Gacrux,88,84.0,1.5,HD 89707
+26,Bellatrix,240,5.8,8.6,Tau Geminorum
+27,Elnath,130,4.2,5.0,HAT-P-13
+28,Miaplacidus,110,6.8,3.5,HD 217580
+29,Alnilam,"2,000",42.0,32.0,HD 16760
+30,Gamma Velorum,"1,100",6.0,9.0,HD 13189
+31,Alnair,101,3.4,4.0,HD 18445
+32,Alioth,81,4.2,2.9,HD 8673
+33,Alnitak,1050,20.0,33.0,NGC 4349-127
+34,Dubhe,120,30.0,4.25,Gliese 569
+35,Mirfak,590,68.0,8.5,HD 29587
+36,Wezen,"1,600",200.0,17.0,ChaHÎ±8
+37,Sargas,270,26.0,5.7,COROT-20
+38,Kaus Australis,140,6.8,3.5,HD 168443
+39,Avior,630,130.0,9.0,HD 38529 A
+40,Alkaid,104,3.4,6.1,Epsilon Indi
+41,Menkalinan,81,2.77,2.39,HW Virginis
+42,Atria,390,92.0,7.0,DT Virginis
+43,Alhena,109,3.3,2.8,HD 4113
+44,Peacock,180,4.8,5.9,Gliese 229
+45,Alsephina[2],80,2.9,2.4,TYC 9486-927-1
+46,Mirzam,500,10.0,13.5,Epsilon Indi
+47,Polaris,430,39.0,5.4,HD 131664
+48,Alphard,180,50.0,3.0,HD 136118
+49,Mintaka,1200,16.5,24.0,HD 140913
+50,Scheat,196,95.0,2.1,GQ Lupi
+51,Almaaz,653,140.0,15.0,HD 162020
+52,Rasalgethi,360,280.0,2.8,Nu Ophiuchi
+53,Tau Ceti,11.9,0.893,0.783,HD 164427
+54,Delta Pavonis,19.92,1.22,0.991,SCR 1845-6357
+55,Ran,10.48,0.74,0.82,COROT-3
+56,V382 Carinae,"8,900",485.0,20.0,15 Sagittae
+57,Eta Carinae,"7,500",881.0,100.0,Zeta Delphini
+58,Delta Cephei,887,44.5,4.5,HD 202206
+59,Mu Cephei,"6,000",972.0,19.2,0
+60,Titawin,44.25,1.48,1.27,0
+61,Rho Cassiopeiae,"8,154",881.0,22.0,0
+62,P Cygni,"5,545",76.0,30.0,0
+63,La Superba,"1,000",129.0,1.0,0
+64,VV Cephei,"4,900",516.0,18.2,0
+65,61 Cygni,11.41,0.665,0.7,0
+66,R Doradus,178,298.0,1.0,0
+67,Polaris Australis,281,3.74,1.59,0
+68,R Coronae Borealis,"4,566",85.0,0.85,0
+69,54 Piscium,36.1,0.94,0.76,0
+70,Mira,300,370.0,1.2,0
+71,RW Cephei,"14,000",1.0,158.0,0
+72,Lacaille 8760,12.87,0.51,0.6,0
+73,V838 Monocerotis,"19,896",750.0,45.0,0
+74,HD 140283,190,1.4,3.2,0
+75,II Pegasi,130,3.4,0.8,0
+76,VY Canis Majoris,"3,900",1.0,420.0,0
+77,Pistol Star,"25,000",320.0,100.0,0
+78,S Doradus,"1,69,000",380.0,24.0,0
+79,UY Scuti,"5,100",755.0,10.0,0
+80,Barnard's Star,5.98,0.2,0.14,0
+81,Luhman 16,6.52,82.0,0.04,0
+82,Proxima Centauri,4.25,0.15,0.12,0
+83,KIC 8462852,"1,470",1.58,1.43,0
+84,R136a1,"1,63,000",32.0,290.0,0
+85,Melnick 42,"1,63,000",21.1,189.0,0
+86,WR 102,"18,134",0.39,19.0,0
+87,VFTS 352,"1,64,000",14.47,57.48,0
+88,YBP 1194,"2,772",0.99,1.01,0
+89,Gliese 1214,47.5,0.21,0.16,0
+90,NML Cygni,"5,251",1640.0,50.0,0
+91,VB 10,18.72,0.1,0.075,0
+92,WOH G64,"1,63,000",1600.0,20.0,0
+
